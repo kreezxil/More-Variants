@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mvariants",
+  "name": "More Variants",
+  "description": "Adds variants to various blocks that emit redstone.",
+  "version": "1.3.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TurboLazer240"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": [mod_minecraftForge]
+}
+]
