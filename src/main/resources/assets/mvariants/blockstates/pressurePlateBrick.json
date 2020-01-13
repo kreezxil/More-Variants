@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "mvariants:brick_pressure_plate_up" },
+        "powered=true": { "model": "mvariants:brick_pressure_plate_down" }
+    }
+}

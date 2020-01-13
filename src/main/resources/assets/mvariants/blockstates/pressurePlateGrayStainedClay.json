@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "mvariants:gray_stained_clay_pressure_plate_up" },
+        "powered=true": { "model": "mvariants:gray_stained_clay_pressure_plate_down" }
+    }
+}

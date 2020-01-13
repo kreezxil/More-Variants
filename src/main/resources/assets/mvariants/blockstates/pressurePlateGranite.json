@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "mvariants:granite_pressure_plate_up" },
+        "powered=true": { "model": "mvariants:granite_pressure_plate_down" }
+    }
+}
