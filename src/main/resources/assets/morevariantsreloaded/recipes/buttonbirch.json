@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#","b"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:planks",
+      "data": 2
+    },
+    "b": { "item": "minecraft:wooden_button"}
+  },
+  "result": {
+    "item": "morevariantsreloaded:buttonBirch"
+  }
+}

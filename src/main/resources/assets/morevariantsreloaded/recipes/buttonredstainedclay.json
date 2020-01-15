@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "#","b"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "minecraft:stained_hardened_clay",
+        "data": 14},
+    "b": { "item": "minecraft:stone_button"}
+      },
+  "result": {
+    "item": "morevariantsreloaded:buttonRedStainedClay"
+  }
+}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "powered=false": { "model": "mvariants:dark_oak_pressure_plate_up" },
-        "powered=true": { "model": "mvariants:dark_oak_pressure_plate_down" }
-    }
-}

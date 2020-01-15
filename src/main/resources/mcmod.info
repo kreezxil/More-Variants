@@ -1,16 +1,16 @@
 [
 {
-  "modid": "mvariants",
-  "name": "More Variants",
-  "description": "Adds variants to various blocks that emit redstone.",
-  "version": "1.3.0",
-  "mcversion": "1.10.2",
+  "modid": "morevariantsreloaded",
+  "name": "More Variants Reloaded",
+  "description": "More variants of some common items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["TurboLazer240"],
-  "credits": "",
-  "logoFile": "logo.png",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "morevariants.png",
   "screenshots": [],
-  "dependencies": [mod_minecraftForge]
+  "dependencies": []
 }
 ]

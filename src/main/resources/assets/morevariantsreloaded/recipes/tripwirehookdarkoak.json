@@ -1,0 +1,25 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "I",
+    "S",
+    "#"
+  ],
+  "key": {
+    "#":
+      {
+        "item": "minecraft:planks",
+        "data": 5
+      },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "morevariantsreloaded:tripwireHookDarkOak",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "mvariants:jungle_pressure_plate_up" },
+        "powered=true": { "model": "mvariants:jungle_pressure_plate_down" }
+    }
+}

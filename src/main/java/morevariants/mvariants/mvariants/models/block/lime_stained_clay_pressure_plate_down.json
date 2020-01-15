@@ -1,0 +1,6 @@
+{
+    "parent": "block/pressure_plate_down",
+    "textures": {
+        "texture": "blocks/hardened_clay_stained_lime"
+    }
+}

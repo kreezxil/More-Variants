@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "##","p "
+  ],
+  "key": {
+    "#":
+      {
+        "item": "minecraft:hardened_clay"},
+    "p": { "item": "minecraft:stone_pressure_plate"}
+      },
+  "result": {
+    "item": "morevariantsreloaded:pressurePlateHardenedClay"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/button_pressed",
+    "textures": {
+        "texture": "blocks/hardened_clay_stained_blue"
+    }
+}

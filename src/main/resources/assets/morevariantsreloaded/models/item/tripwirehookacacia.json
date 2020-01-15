@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "morevariantsreloaded:blocks/acacia_trip_wire_source"
+    }
+}

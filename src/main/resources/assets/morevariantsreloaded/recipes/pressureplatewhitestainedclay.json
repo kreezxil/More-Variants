@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "##",
+    "p "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 0
+    },
+    "p": {
+      "item": "minecraft:stone_pressure_plate"
+    }
+  },
+  "result": {
+    "item": "morevariantsreloaded:pressurePlateWhiteStainedClay"
+  }
+}

@@ -1,6 +1,0 @@
-{
-    "parent": "block/button",
-    "textures": {
-        "texture": "blocks/hardened_clay_stained_white"
-    }
-}

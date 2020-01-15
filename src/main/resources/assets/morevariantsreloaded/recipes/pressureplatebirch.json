@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "##","p "
+  ],
+  "key": {
+    "#":
+      {
+        "item": "minecraft:planks",
+        "data": 2},
+    "p": { "item": "minecraft:wooden_pressure_plate"}
+      },
+  "result": {
+    "item": "morevariantsreloaded:pressurePlateBirch"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "##","p "
+  ],
+  "key": {
+    "#":
+      {
+        "item": "minecraft:brick_block"},
+    "p": { "item": "minecraft:stone_pressure_plate"}
+      },
+  "result": {
+    "item": "morevariantsreloaded:pressurePlateBrick"
+  }
+}
